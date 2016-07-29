@@ -19,7 +19,7 @@
       "Description" : "EC2 instance type",
       "Type" : "String",
       "Default" : "t2.medium",
-      "ConstraintDescription" : "must be a valid EC2 instance type."
+      "ConstraintDescription" : "must be valid EC2 instance type."
     },
 
 	"EnvironmentType" : {
